@@ -1,0 +1,6 @@
+{
+  "delay": 60000,
+  "channel": "_CHANNEL_ID_",
+  "token": "_BOT_TOKEN_",
+  "zero": false
+}
